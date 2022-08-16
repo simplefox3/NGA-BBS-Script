@@ -4,7 +4,7 @@
 // @namespace https://space.bilibili.com/482343
 // @author 古海沉舟
 // @license 古海沉舟
-// @version 1.5.0
+// @version 1.0.0
 // @include https://www.douyin.com/recommend
 // @include https://www.douyin.com/*
 // @include https://www.douyin.com/?*
